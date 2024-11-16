@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesApp2" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#8FC551</item>
+        <item name="colorPrimaryDark">#C12222</item>
+
+    </style>
+
+    <style name="Theme.NotesApp2" parent="Base.Theme.NotesApp2" />
+</resources>
